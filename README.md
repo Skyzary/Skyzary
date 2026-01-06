@@ -38,5 +38,5 @@ When I'm not debugging or building new features, you can find me:
 
 ### 📫 Connect with me:
 - **LinkedIn:** [https://www.linkedin.com/in/volodymyr-levkovskyi-517608304/]
-- **Telegram:** [@Wassquxi]
+- **Telegram:** @Wassquxi
 - **Email:** [Levkovskii44@gmail.com]

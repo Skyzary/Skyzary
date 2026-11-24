@@ -1,6 +1,6 @@
 # Hi there, I'm Vladimir! 👋
 
-### 👨‍💻 Full-Stack Developer
+### 👨💻 Full-Stack Developer
 Passionate Full-Stack Developer focused on building clean, type-safe web applications, offline-first architectures, and high-performance production platforms. Specialized in the **React 19 / Next.js** ecosystem on the frontend and **NestJS / Node.js** on the backend.
 
 Currently contributing to university ecosystem platforms, client digital solutions, and open-source tooling.  
@@ -26,6 +26,11 @@ Based in **France** 🇫🇷, open to remote opportunities across **Europe** �
   *Custom web platform & reservation engine for a French restaurant in Fabrègues.*  
   - Developed with **Next.js 16 (App Router)** and **React 19**, featuring multi-step reservation booking, native calendar exports (.ics / Google Calendar), and Decap CMS integration.
   - Optimized for mobile performance with custom touch gestures, Lenis smooth scrolling, and Cloudflare OpenNext edge deployment.
+
+- **[Pizza Planets](https://pizzaplanete.fr/)** · *[Repository](https://github.com/Skyzary/pizza_planete)*  
+  *Mobile-first storefront & digital menu for an artisanal pizzeria in Fabrègues, France.*  
+  - Engineered with **Next.js 16 (App Router)**, **React 19** (with React Compiler), **SCSS Modules** (Atomic Design), and edge deployment on **Cloudflare Workers** via OpenNext.
+  - Built real-time Paris-timezone open/closed status indicators with hydration-safe SSR, a sticky mobile quick-order bar, high-res WebP menu previews, and structured Local SEO (`FastFoodRestaurant` & `Menu` JSON-LD).
 
 - **[Burnens Assainissement](https://assenissement-redesign.levkovskii44.workers.dev/)** · *[Repository](https://github.com/Skyzary/Assenissement_redesign)*  
   *Production website redesign and quote estimation engine for an emergency utility service.*  
